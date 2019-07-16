@@ -14,6 +14,16 @@ $ . .env/bin/activate
 $ pip install -r requirements.txt 
 ```
 
+```
+virtualenv .env
+cd env
+source bin/activate
+cd ..
+pip install -r requirements.txt 
+pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
+
+```
+
 ## Get started
 To get started, cd into the directory examples/ and run demo.sh. It downloads the pretrained GloVe word embeddings, and then runs the scripts: 
 * sif_embedding.py is an demo on how to generate sentence embedding using the SIF weighting scheme,
