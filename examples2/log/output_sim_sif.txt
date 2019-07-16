@@ -1,0 +1,20 @@
+word vectors loaded from /home/diego/DATA/NLP/vectors.txt
+word weights computed from /home/diego/DATA/NLP/vocab.txt using parameter a=-1.000000
+remove the first 0 principal components
+                    MSRpar2012   0.254305
+
+word vectors loaded from /home/diego/DATA/NLP/vectors.txt
+word weights computed from /home/diego/DATA/NLP/vocab.txt using parameter a=-1.000000
+remove the first 1 principal components
+                    MSRpar2012   0.247531
+
+word vectors loaded from /home/diego/DATA/NLP/vectors.txt
+word weights computed from /home/diego/DATA/NLP/vocab.txt using parameter a=0.001000
+remove the first 0 principal components
+                    MSRpar2012   0.249189
+
+word vectors loaded from /home/diego/DATA/NLP/vectors.txt
+word weights computed from /home/diego/DATA/NLP/vocab.txt using parameter a=0.001000
+remove the first 1 principal components
+                    MSRpar2012   0.279744
+

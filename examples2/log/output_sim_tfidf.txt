@@ -1,0 +1,10 @@
+word vectors loaded from /home/diego/DATA/NLP/vectors.txt
+word weights computed from idf
+remove the first 0 principal components
+                    MSRpar2012   0.293575
+
+word vectors loaded from /home/diego/DATA/NLP/vectors.txt
+word weights computed from idf
+remove the first 1 principal components
+                    MSRpar2012   0.310735
+
